@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HidekiSeven
+- 👋 Hi, I’m @ Gustavo Hideki Kanomato 
 - 👀 I’m interested in creating games, apps, websites, and systems. In short, any area of development.  Because I intend to be an impeccable programmer. :)
 - 🌱 I’m currently learning Computer Science at the prestigious Impacta College.
 - 💞️ I’m looking to collaborate on any project, from big to small. :)
